@@ -1,9 +1,9 @@
 ---
-title: docker-compose file not found
+title: 도커 컴포즈 설치 오류
 date: 2024-09-23 13:30:20 +09:00
-categories: [s/w, backend, docker
-tags:[docker]
+categories: [backend]  
 author: daedyu
+tags: [docker]
 ---
 
 ## 도커설치 트러블 슈팅
