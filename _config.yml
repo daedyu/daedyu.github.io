@@ -37,12 +37,8 @@ social:
   name: daedyu
   email: legolove08@naver.com # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://github.com/daedyu # change to your GitHub homepage
     - https://www.instagram.com/trillion_on_2033
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/daedyu # change to your GitHub homepage
 
 # Site Verification Settings
 webmaster_verifications:
