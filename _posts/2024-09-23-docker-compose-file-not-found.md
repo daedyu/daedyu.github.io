@@ -1,7 +1,7 @@
 ---
 title: 도커 컴포즈 설치 오류
 date: 2024-09-23 13:30:20 +09:00
-categories: [backend]  
+categories: [backend]
 author: daedyu
 tags: [docker]
 ---
