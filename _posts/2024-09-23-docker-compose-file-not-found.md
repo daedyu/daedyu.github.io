@@ -1,9 +1,9 @@
 ---
-title: 도커 컴포즈 설치 오류
+title: 도커 컴포즈 설치 오류 트러블 슈팅
 date: 2024-09-23 13:30:20 +09:00
 categories: [backend]
 author: daedyu
-tags: [docker]
+tags: [docker, troubleshooting]
 ---
 
 ## 도커설치 트러블 슈팅
