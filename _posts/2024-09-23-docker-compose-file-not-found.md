@@ -1,12 +1,9 @@
 ---
 title: docker-compose file not found
 date: 2024-09-23 13:30:20 +09:00
-categories: [s/w, backend, docker]
-tags:
-  [
-    docker,
-    docker-compose,
-  ]
+categories: [s/w, backend, docker
+tags:[docker]
+author: daedyu
 ---
 
 ## 도커설치 트러블 슈팅
