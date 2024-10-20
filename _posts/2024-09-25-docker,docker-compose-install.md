@@ -35,7 +35,7 @@ echo \
 sudo apt update
 sudo apt install docker-ce docker-ce-cli containerd.io
 ```
-<div style="background-color: #e0f6f7; padding: 10px; border-radius: 5px; margin-bottom: 20px">
+<div style="background-color: #e0f6f7; padding: 10px; border-radius: 5px; margin-bottom: 18px">
   <b style="color: #29beb9">Tip</b>
   <span style="padding-left: 5px">권한을 설정하지 않고 docker --version 를 하면 작동되지 않습니다.</span>
 </div>
