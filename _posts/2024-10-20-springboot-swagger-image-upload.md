@@ -17,7 +17,8 @@ public ResponseEntity<ImageResponse> uploadImage(
     return ResponseEntity.ok().body(uploadService.upload(image));
 }
 ```
-<img src="/assets/img/20241020/noimageupload.png" style="border-radius: 10px">
+
+![실패 swagger](/assets/img/20241020/noimageupload.png)
 
 ## RequestPart 사용 (실패)
 @RequestPart 를 사용하면 된다라는 글이 있어 시도했지만 실패하였다.
@@ -65,7 +66,7 @@ public ResponseEntity<ImageResponse> uploadImage(
 
 이후 확인해보니 작동되었다!
 
-<img src="/assets/img/20241020/imageupload.png" style="border-radius: 10px">
+![성공 swagger](/assets/img/20241020/imageupload.png)
 
 > springdoc 를 사용해야 해결가능하다!
 {: .prompt-warning }
