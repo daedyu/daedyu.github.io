@@ -61,4 +61,4 @@ docker-compose --version
 ```
 버전이 정상적으로 뜨면 성공이다.
 
-[버전 안뜸 해결법](https://daedyu.github.io/posts/docker-compose-file-not-found)
+<a href="/posts/docker-compose-file-not-found">버전 안뜸 해결법</a>
