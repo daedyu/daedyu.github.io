@@ -1,7 +1,7 @@
 ---
 title: 알고리즘이란
 date: 2024-08-13 11:40:00 + 09:00
-categories: [algorithm]
+categories: [data-science, algorithm]
 tags: [algorithm]
 ---
 
