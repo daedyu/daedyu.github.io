@@ -41,7 +41,7 @@ tags: [algorithm]
 
 선택정렬은 안정성을 만족하지 않는다.
 
-> [안정성이란?](/posts/what-is-sort) 
+> [안정성이란?](/posts) 
 {: .prompt-tip }
 
 ## 코드 (python)
