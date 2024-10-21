@@ -12,15 +12,13 @@ tags: [algorithm]
 
 ### 알고리즘의 정의
 알고리즘은 아래 5가지를 만족해야한다.
-1) 입력: 입력 데이터가 **0**개 이상 존재한다.
-2) 출력: 알고리즘 수행 후 한가지 이상의 수행 결과가 생성된다.
-3) 명확성: 각 명령어가 명확하고, 모호하지 않다.
-4) 유한성: 알고리즘의 실행은 유한하다.
-5) 유효성: 각 명령어는 실행 가능한 연산이여야 한다. (오류x)
-<div style="background-color: rgb(252,237,222); padding: 15px; border-radius: 5px; margin-bottom: 18px">
-  <b style="color: #e76d17">Imp</b>
-  <span style="padding-left: 5px">하나라도 충족하지 않으면 알고리즘이 아니다!</span>
-</div>
+1. 입력: 입력 데이터가 **0**개 이상 존재한다.
+2. 출력: 알고리즘 수행 후 한가지 이상의 수행 결과가 생성된다.
+3. 명확성: 각 명령어가 명확하고, 모호하지 않다.
+4. 유한성: 알고리즘의 실행은 유한하다.
+5. 유효성: 각 명령어는 실행 가능한 연산이여야 한다. (오류x)
+> 하나라도 충족하지 않으면 알고리즘이 아니다!
+{: .prompt-warning }
 
 ## 알고리즘 성능 분석법
 ### 시간 복잡도
@@ -61,11 +59,9 @@ for i in range(n):          # (n step)
 
 ex: `a + 1` O(1), `for i in range(n)` O(n)
 
-<div style="background-color: #e0f6f7; padding: 15px; border-radius: 5px; margin-bottom: 18px">
-  <b style="color: #29beb9">Tip</b>
-  <span style="padding-left: 5px">O(1) ≺ O(log n) ≺ O(n) ≺ O(n log n) ≺ O(n2)
-≺ O(n3) ≺ O(2n) ≺ O(3n) ≺ O(n!)</span>
-</div>
+> O(1) ≺ O(log n) ≺ O(n) ≺ O(n log n) ≺ O(n2) ≺ O(n3) ≺ O(2n) ≺ O(3n) ≺ O(n!)
+{: .prompt-tip }
+
 
 ### 빅오메가 표기법
 빅오와 반대로 **최선의 상황을 고려**하는 표기법으로, 빅 오메가 보다 더 좋은 시간 복잡도는 나오지 않는다.
