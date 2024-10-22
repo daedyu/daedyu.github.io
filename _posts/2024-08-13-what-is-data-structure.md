@@ -14,7 +14,7 @@ tags: [data-structure, algorithm]
 ### 알고리즘이란?
 > 알고리즘은 컴퓨터가 문제를 해결해나가는 과정/절차이다.
 >
-> <a href="/posts/what-is-algorithm" target="_blank">알고리즘이란</a>
+> [알고리즘이란](/posts/what-is-algorithm)
 
 ### 자료구조와 알고리즘의 차이
 자료구조와 알고리즘의 차이는 뭘까?
