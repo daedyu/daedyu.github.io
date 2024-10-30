@@ -8,7 +8,7 @@ tags: [jwt, springboot, troubleshooting]
 ## jwt 유저 가져오기 트러블 슈팅
 patch 로 나의 정보를 수정하면서 오류가 발생하였다.
 > org.hibernate.HibernateException: identifier of an instance was altered from
-{: .prompt-error}
+{: .prompt-danger}
 
 ```java
 @Component
