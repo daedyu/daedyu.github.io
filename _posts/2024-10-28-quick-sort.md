@@ -2,7 +2,7 @@
 title: 퀵정렬 (quick sort)
 date: 2024-10-28 11:03:50 + 09:00
 categories: [data-science, algorithm]
-tags: [algorithm]
+tags: [algorithm, divide-and-conquer]
 ---
 
 ## 퀵 정렬이란?
