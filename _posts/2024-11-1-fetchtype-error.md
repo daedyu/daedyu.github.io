@@ -98,18 +98,6 @@ Hibernate 가 **지연로딩**을 사용하고 있었는데, Department 엔티�
 
 현재 UserEntity 는 다음과 같다.
 ```java
-package org.example.memoaserver.domain.user.entity;
-
-import com.fasterxml.jackson.annotation.JsonIgnore;
-import jakarta.persistence.*;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.experimental.SuperBuilder;
-import org.example.memoaserver.domain.school.entity.DepartmentEntity;
-import org.example.memoaserver.domain.user.entity.enums.Role;
-
-import java.util.Date;
-
 @Getter @SuperBuilder(toBuilder = true)
 @Entity(name = "user")
 @NoArgsConstructor
@@ -149,18 +137,6 @@ public class UserEntity {
 이를 다음과 같이 수정하였다.
 ### 수정된 코드
 ```java
-package org.example.memoaserver.domain.user.entity;
-
-import com.fasterxml.jackson.annotation.JsonIgnore;
-import jakarta.persistence.*;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.experimental.SuperBuilder;
-import org.example.memoaserver.domain.school.entity.DepartmentEntity;
-import org.example.memoaserver.domain.user.entity.enums.Role;
-
-import java.util.Date;
-
 @Getter @SuperBuilder(toBuilder = true)
 @Entity(name = "user")
 @NoArgsConstructor
