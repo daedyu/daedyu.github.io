@@ -1,5 +1,5 @@
 ---
-title: 서브 쿼리란
+title: DML 문법 (4) - 서브 쿼리
 date: 2024-12-02 12:09 +09:00
 categories: [backend, database]
 tags: [mysql, sql-script]
