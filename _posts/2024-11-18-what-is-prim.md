@@ -2,7 +2,7 @@
 title: 프림 알고리즘이란?
 date: 2024-11-18 11:18:40 +09:00
 categories: [data-science, algorithm]
-tags: [algorithm, prim, shortest-paths]
+tags: [algorithm, prim, mst]
 ---
 
 ## Prim 알고리즘이란?
